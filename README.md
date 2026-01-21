@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en">
+lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -89,18 +89,18 @@
     </nav>
   </header>  <!-- HERO -->  <section class="hero" id="home">
     <h2>Empowering Communities for Sustainable Health & Development</h2>
-    <p>Phility Community Initiative is a registered community-based organisation serving vulnerable communities in Uganda.</p>
+    <p>Phility Community Initiative is a registered community-based organisation serving communities in Uganda.</p>
     <a href="#projects" class="btn">View Our Work</a>
   </section>  <!-- ABOUT -->  <section class="container" id="about">
     <h2>About Us</h2>
     <p>
       Phility Community Initiative CBO is a grassroots, non-profit community-based organisation
       working to prevent diseases and promote healthy lifestyles through education,
-      outreach, and community empowerment.
+      sanitation and  hygiene, and community empowerment.
     </p>
     <br />
     <h3>Mission</h3>
-    <p>To reduce preventable diseases by empowering communities with knowledge, skills, and access to preventive health services.</p>
+    <p>To reduce preventable diseases by empowering communities with knowledge, skills, and access to preventive health services especially solid waste management.</p>
     <br />
     <h3>Vision</h3>
     <p>Healthy, informed, and resilient communities free from preventable illnesses.</p>
@@ -140,15 +140,14 @@
       </div>
       <div class="card">
         <h3>Disease Prevention</h3>
-        <p>Malaria, HIV/AIDS, TB, cholera, and non-communicable disease prevention.</p>
+        <p>Malaria, cholera,diarrhea and anyother communicable disease prevention.</p>
       </div>
       <div class="card">
         <h3>WASH</h3>
-        <p>Safe water use, handwashing promotion, and improved sanitation practices.</p>
+        <p>Safe water use, handwashing promotion, and improved sanitation and hygiene  practices.</p>
       </div>
       <div class="card">
-        <h3>Maternal & Child Health</h3>
-        <p>Antenatal care support, immunisation follow-up, nutrition, and growth monitoring.</p>
+      
       </div>
     </div>
   </section>  <!-- PROJECTS -->  <section class="container" id="projects">
@@ -156,24 +155,22 @@
     <div class="grid">
       <div class="card">
         <h3>Community Health Outreach</h3>
-        <p>Village-level health education and disease prevention campaigns.</p>
+        <p>Village-level health education and solod waste management campaigns.</p>
       </div>
       <div class="card">
         <h3>WASH Improvement Project</h3>
         <p>Household hygiene promotion and safe water practices.</p>
       </div>
-      <div class="card">
-        <h3>Maternal & Child Nutrition</h3>
-        <p>Nutrition education and growth monitoring for mothers and children.</p>
+      <div 
       </div>
     </div>
   </section>  <!-- DONATE -->  <section class="container" id="donate">
     <h2>Support Our Work</h2>
     <p>Your support helps us reach more vulnerable communities.</p>
     <ul>
-      <li><strong>Mobile Money:</strong> MTN / Airtel – 07XXXXXXXX</li>
-      <li><strong>Bank:</strong> Name of Bank – Account Number</li>
-      <li><strong>In-kind Support:</strong> Medical supplies, hygiene kits, training materials</li>
+      <li><strong>Mobile Money:</strong> MTN / Airtel – 0782626400/0709521027</li>
+      <li><strong>Bank:</strong> Name of Bank Equity bank– Account Number</li>
+      <li><strong>In-kind Support:</strong> waste collection equipment lPPE's, training materials</li>
     </ul>
   </section>  <!-- DONOR READINESS -->  <section class="container">
     <h2>Accountability & Transparency</h2>
@@ -187,8 +184,7 @@
     <h2>Photo Gallery</h2>
     <div class="grid">
       <div class="card">Community health outreach</div>
-      <div class="card">WASH sensitisation session</div>
-      <div class="card">Maternal & child health activity</div>
+      <div class="card">WASH sensitisation session</div
       <div class="card">Volunteer training</div>
     </div>
   </section>  <!-- DOWNLOADS -->  <section class="container" id="downloads">
